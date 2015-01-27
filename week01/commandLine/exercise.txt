@@ -1,0 +1,2 @@
+Do exercises 2-15 at:
+http://learnpythonthehardway.org/book/appendixa.html
