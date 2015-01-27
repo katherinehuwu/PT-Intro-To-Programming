@@ -1,0 +1,11 @@
+Egads!
+
+My sincerest apologies, but at the moment I seem to have landed myself in quite the pickle. I heard that you were taking a programming class, and so I was hoping you could help me get out of this jam…!
+
+I have a presentation in two hours but need to somehow find and copy all the files with names ending with an underscore. So for example, I have a file “CoolPic_.img” and another file “CoolDoc_.doc” that would all need to go into my usb, along with 1000s of other such files with names that end in an underscore.
+
+Someone told me about this thing called the “command line” that could help me somehow, but I have no idea what it is or how to use it.
+
+Can you and a partner work together and then give me some instructions that I can try on my end?
+
+~Ken
