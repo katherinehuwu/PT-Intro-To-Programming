@@ -3,9 +3,10 @@
 1. Go to Blockly Maze (https://blockly-games.appspot.com/maze?level=7), and do the 7th exercise within 1 minute
 
 2. Perform the following set of command line exercises in less than 5 minutes total:
+
 * Open a command line using one of the following methods:
-&nbsp; * open a command line on your computer
-&nbsp; * open an online terminal via codio
+  * open a command line on your computer
+  * open an online terminal via codio
 * Determine which directory you are in
 * Navigate to the home directory
 * Make a directory (in your home directory) called “myDirectory”
@@ -17,8 +18,8 @@
 * rename “mySecondFile.txt” to “mySecondFile.md”
 * Move “mySecondFile.md” into your home directory
 * ++BONUS IF you can do the following two tasks in one line
-&nbsp; * delete “myDirectory”
-&nbsp; * delete “mySecondFile.md” 
+  * delete “myDirectory”
+  * delete “mySecondFile.md” 
 * Exit Your Terminal
 
 
