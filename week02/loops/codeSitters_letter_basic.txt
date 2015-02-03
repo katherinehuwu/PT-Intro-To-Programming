@@ -1,0 +1,14 @@
+Good evening,
+
+I hope you don’t mind, but I got your name from Kenneth. He spoke wonders of your ability to efficiently complete tasks. I would like to hire you as a contractor on a project for my new company, CodeSitters Inc. 
+
+Here at CodeSitters Inc., we babysit your children in the most efficient way possible. 
+
+Studies have shown that counting numbers can provide a narcoleptic effect on humans under the age of 6. We would like to automate a program that counts from 1 to a random number chosen by a child in our care.
+
+Can you help us create a program to help our sitters?
+
+Thank you!
+
+Candace Sinters
+CodeSitters Inc.

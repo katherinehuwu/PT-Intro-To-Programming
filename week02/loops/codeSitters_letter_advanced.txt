@@ -1,0 +1,12 @@
+Hello again!
+
+Thank you for your help!!! The children love the program, and it’s saving the sitters so much time and energy. Very efficient! 
+
+It has come to our attention that many children are afraid of the number 13. In order to not scare them, we would like to print out “Gummy Bear!” instead of the number 13.
+
+Can you modify your program to do this for us? 
+
+Thank you!
+
+Candace Sinters
+CodeSitters Inc.
