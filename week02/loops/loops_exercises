@@ -59,7 +59,9 @@ References for stage 2 questions
                 ex: >> 2 != 4  [this can be read: 2 is not equal to 4?]
                     TRUE 
     d. what does % mean?
-        This symbol is called the modulo operation. The modulo operation finds the remainder after division of one number by another.
+        This symbol is called the modulo operation. The modulo operation finds the remainder after division of 
+        one number by another.
+        
         ex. 10 % 3 = 1 
         Often times we check if a number is even by using the modulo with the number 2.
         ex. if 10 % 2 == 0:
