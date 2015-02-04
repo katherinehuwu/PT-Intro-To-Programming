@@ -17,11 +17,13 @@ STAGE 2 QUESTIONS
 3. print the odd numbers from 1 to 12
 4. print the even numbers from 1 to 12
 5. print the numbers from 1 to 12 with the word "monkey" replacing the even numbers
-6. print the numbers from 1 to 12 with the word "monkey" replacing the even numbers, and multiply the odd numbers by two
+6. print the numbers from 1 to 12 with the word "monkey" replacing the even numbers, and multiply the odd numbers 
+   by two
 
 STAGE 3 QUESTIONS
 
-1. print the numbers 1 to 30 where if the number is even you print "monkey", if the number is divisible by 3 you do print "banana", and if the number is both even and divisible by 3 you print "monkeybanana"
+1. print the numbers 1 to 30 where if the number is even you print "monkey", if the number is divisible by 3 you 
+   do print "banana", and if the number is both even and divisible by 3 you print "monkeybanana"
 2. print the sum of all of the numbers from 1 to 12
 3. print the product of all of the numbers from 1 to 12
 
