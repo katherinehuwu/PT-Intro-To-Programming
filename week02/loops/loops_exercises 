@@ -1,0 +1,68 @@
+# Loop Practice Loop Practice Loop Practice Loop Practice...
+
+[first do these using a for loop, next try them using a while loop]
+
+
+STAGE 1 QUESTIONS
+
+1. print the numbers from 0 to 12
+2. print the numbers from 1 to 12
+3. print the numbers from 12 to 1
+4. print the numbers from 1 to 12, where each number is multiplied by 2
+
+STAGE 2 QUESTIONS
+
+1. print the numbers from 1 to 12 with the word "monkey" replacing the number 4
+2. print the numbers from 1 to 12 that are divisible by 3
+3. print the odd numbers from 1 to 12
+4. print the even numbers from 1 to 12
+5. print the numbers from 1 to 12 with the word "monkey" replacing the even numbers
+6. print the numbers from 1 to 12 with the word "monkey" replacing the even numbers, and multiply the odd numbers by two
+
+STAGE 3 QUESTIONS
+
+1. print the numbers 1 to 30 where if the number is even you print "monkey", if the number is divisible by 3 you do print "banana", and if the number is both even and divisible by 3 you print "monkeybanana"
+2. print the sum of all of the numbers from 1 to 12
+3. print the product of all of the numbers from 1 to 12
+
+
+
+References for stage 2 questions
+
+    a. if-else statement: an if-else statement is a statement in the form:     
+        if SOMETHING IS TRUE:
+            DO THIS
+        elif SOMETHING ELSE IS TRUE:
+            DO THIS OTHER THING
+        else: 
+            DO THIS THING
+
+        an example!
+        if 1+2 == 3:
+            print "YEAH"
+        else:
+            print "NO"
+
+        THIS WOULD PRINT "YEAH", becuase the statement 1+2 == 3 is true
+
+    b. what does this symbol "==" even mean?: 
+        There are two kinds of equal signs in python. 
+        1. "=" you've seen this before. This means you are setting something equal to something else. 
+                You can think about this as assigning a variable to a value. Like x = 6. Now x is 6.
+        2. "==" These two equal signs next to eachother means you are asking if the two things are equal. 
+                ex: >> a = "6"
+                    >> b = "2 + 3" 
+                    >> a == b [this can be read: a is equal to b?]
+                    TRUE   
+    c. what about inequality?
+        Just like "==" checks if two things are equal, you can use "!=" to check if two things are not equal
+                ex: >> 2 != 4  [this can be read: 2 is not equal to 4?]
+                    TRUE 
+    d. what does % mean?
+        This symbol is called the modulo operation. The modulo operation finds the remainder after division of one number by another.
+        ex. 10 % 3 = 1 
+        Often times we check if a number is even by using the modulo with the number 2.
+        ex. if 10 % 2 == 0:
+                10 is even 
+ 
+
